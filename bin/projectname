@@ -1,0 +1,3 @@
+#!/usr/bin/python
+from projectname import main
+main()
